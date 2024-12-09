@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|d:\\visual studio (2)\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\5 \u043B\u0431\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\squareonly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|solutionrelative:squareonly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\squareonly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|solutionrelative:squareonly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\squareonly\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|solutionrelative:squareonly\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\squareonly\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|solutionrelative:squareonly\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\squareonly\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|solutionrelative:squareonly\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\squareonly\\rhomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0302F70D-28F6-4D80-91B2-3D914D5A4228}|SquareOnly\\SquareOnly.csproj|solutionrelative:squareonly\\rhomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rhomb.cs",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Rhomb.cs",
+              "RelativeDocumentMoniker": "SquareOnly\\Rhomb.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Rhomb.cs",
+              "RelativeToolTip": "SquareOnly\\Rhomb.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:22:02.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Circle.cs",
+              "RelativeDocumentMoniker": "SquareOnly\\Circle.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Circle.cs",
+              "RelativeToolTip": "SquareOnly\\Circle.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:21:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Figure.cs",
+              "RelativeDocumentMoniker": "SquareOnly\\Figure.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Figure.cs",
+              "RelativeToolTip": "SquareOnly\\Figure.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:15:56.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Form1.cs",
+              "RelativeDocumentMoniker": "SquareOnly\\Form1.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Form1.cs [Design]",
+              "RelativeToolTip": "SquareOnly\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:05:41.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Form1.cs",
+              "RelativeDocumentMoniker": "SquareOnly\\Form1.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Form1.cs",
+              "RelativeToolTip": "SquareOnly\\Form1.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:59:08.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Square.cs",
+              "RelativeDocumentMoniker": "SquareOnly\\Square.cs",
+              "ToolTip": "D:\\Visual Studio (2)\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\5 \u041B\u0411\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\SquareOnly\\Square.cs",
+              "RelativeToolTip": "SquareOnly\\Square.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwDUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:59:04.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
